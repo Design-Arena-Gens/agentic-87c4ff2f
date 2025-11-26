@@ -1,3 +1,15 @@
+node_modules
+.next
+.vercel
+out
+dist
+*.local
+*.log
+*.DS_Store
+coverage
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
 # Comprehensive .gitignore template for AI-generated projects
 # Covers most common languages, frameworks, and tools
 
